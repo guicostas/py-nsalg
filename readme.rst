@@ -1,18 +1,8 @@
 
-Sklearn-pandas
+py-nsalg
 ==============
 
-.. image:: https://circleci.com/gh/scikit-learn-contrib/sklearn-pandas.svg?style=svg
-    :target: https://circleci.com/gh/scikit-learn-contrib/sklearn-pandas
-.. image:: https://img.shields.io/pypi/v/sklearn-pandas.svg
-   :target: https://pypi.python.org/pypi/sklearn-pandas/
-.. image:: https://anaconda.org/conda-forge/sklearn-pandas/badges/version.svg
-   :target: https://anaconda.org/conda-forge/sklearn-pandas/
-
-.. highlight:: python
-
-This module provides a bridge between `Scikit-Learn <http://scikit-learn.org/stable>`__'s machine learning methods and `pandas <https://pandas.pydata.org>`__-style Data Frames.
-In particular, it provides a way to map ``DataFrame`` columns to transformations, which are later recombined into features.
+This module provides an initial implementation of the Negative Selection algorithm, which is a method from the Artificial Immune Systems family of computational methods.
 
 Installation
 ------------
